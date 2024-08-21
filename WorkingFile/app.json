@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Eleganza",
+    "slug": "Eleganza",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#122620"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#122620"
+      },
+      "package": "com.eleganza.myapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9e50aa4f-99ce-41d6-ac6f-d698e789fb83"
+      }
+    },
+    "owner": "khalid_affy"
+  }
+}
